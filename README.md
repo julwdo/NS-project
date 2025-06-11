@@ -4,19 +4,12 @@ This project explores a user-user network derived from Yelp restaurant reviews i
 
 **Key Analyses**:
 - Graph statistics (degree, density, etc.)
+- Connected components and clustering
+- Comparison with Erdos-Renyi random network
+- Centrality measures (degree, betweenness, closeness)
+- Assortativity coefficients (attribute correlations)
+- Community detection (Louvain, Greedy Modularity, Label Propagation)
+- Subgraph analysis and sub-community profiling
+- User-based collaborative filtering for personalized recommendations
 
-Connected components and clustering
-
-Comparison with Erdős–Rényi random graphs
-
-Centrality measures (degree, betweenness, closeness)
-
-Assortativity coefficients (attribute correlations)
-
-Community detection (Louvain, Label Propagation, Greedy Modularity)
-
-Subgraph analysis and sub-community profiling
-
-User-based collaborative filtering for personalized recommendations
-
-Dataset: Yelp reviews scraped using 16 cuisine keywords combined with “Milano”.
+**Dataset**: Yelp reviews scraped using 16 cuisine keywords combined with “Milano”.
